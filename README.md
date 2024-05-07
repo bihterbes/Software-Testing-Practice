@@ -1,1 +1,1 @@
-# Yazilim_testi_odev_2
+# Software-Testing-Practice
